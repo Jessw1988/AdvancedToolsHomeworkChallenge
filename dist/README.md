@@ -1,2 +1,0 @@
-# AdvancedToolsHomeworkChallenge
-Created with CodeSandbox
